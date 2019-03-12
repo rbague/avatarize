@@ -1,4 +1,6 @@
 # Avatarize
+[![Gem Version](https://badge.fury.io/rb/avatarize.svg)](https://badge.fury.io/rb/avatarize)
+[![Build Status](https://travis-ci.org/rbague/avatarize.svg?branch=master)](https://travis-ci.org/rbague/avatarize)
 
 Gem to create letter avatars from users name (or any string).
 It uses HTML canvas to generate the image (base64).
